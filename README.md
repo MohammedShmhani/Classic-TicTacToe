@@ -16,4 +16,4 @@ A classic Tic Tac Toe game implemented in Java, featuring:
 Compile and run the game using your Java IDE or terminal.
 
 ## Author
-Developed by [Your Name]
+Developed by Mohammed Shmhani
